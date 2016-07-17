@@ -4,11 +4,11 @@ Stephen Tudor
 Front-end Web Developer
 -----------------------
 
-- Phone: [610-590-4484](tel://610-590-4484)
-- Email: <smt@stephentudor.com>
-- Blog: [stephentudor.com](http://stephentudor.com)
-- Github: [smt](http://github.com/smt)
-- Twitter: [\@tagsoup](http://twitter.com/tagsoup)
+-Phone: [610-590-4484](tel://610-590-4484)
+-Email: <smt@stephentudor.com>
+-Blog: [stephentudor.com](http://stephentudor.co
+-Github: [smt](http://github.com/smt)
+-Twitter: [\@tagsoup](http://twitter.com/tagsoup)
 
 
 Summary
